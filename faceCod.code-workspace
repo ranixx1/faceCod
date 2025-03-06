@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "faceCod",
+			"path": "."
+		},
+		{
+			"name": "models",
+			"path": "../../Downloads/FaceDetection-main/FaceDetection-main/models"
+		}
+	],
+	"settings": {}
+}
