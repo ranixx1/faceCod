@@ -4,21 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FaceCod - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #007bff;
-        }
-        .icons img {
-            width: 30px;
-            margin-right: 5px;
-        }
-    </style>
 </head>
 <body>
     <h1>📌 FaceCod - README</h1>
